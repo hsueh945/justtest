@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Hello
-=======
 initial version
-
-version 2
->>>>>>> Hello
