@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 initial version
+=======
+version 2
+>>>>>>> origin/Hello
